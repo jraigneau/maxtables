@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/jraigneau/maxtables.svg?branch=master)](https://travis-ci.org/jraigneau/maxtables)
