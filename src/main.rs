@@ -4,7 +4,7 @@ use std::io;
 use rand::Rng;
 
 fn main() {
-    println!("\n\t** MaxTable **");
+    println!("\n\t** MaxTables **");
     println!("Trouve les 10 bonnes réponses!\n\n");
 
     let mut first_v = vec![0;10];
